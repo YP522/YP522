@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub followers](https://img.shields.io/endpoint?url=https://api.github.com/graphql&query=%7B%0A%20%20repository(owner%3A%20%22USERNAME%22%2C%20name%3A%20%22REPO_NAME%22)%20%7B%0A%20%20%20%20owner%20%7B%0A%20%20%20%20%20%20login%0A%20%20%20%20%20%20...%20%20on%20User%20%7B%0A%20%20%20%20%20%20%20%20location%20%7B%0A%20%20%20%20%20%20%20%20%20%20countryName%3A%20country%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20followers%20%7B%0A%20%20%20%20%20%20%20%20%20%20totalCount%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)
+![GitHub followers](https://img.shields.io/endpoint?url=https://api.github.com/graphql&query=%7B%0A%20%20repository(owner%3A%20%22YP522%22%2C%20name%3A%20%22YP522%22)%20%7B%0A%20%20%20%20owner%20%7B%0A%20%20%20%20%20%20login%0A%20%20%20%20%20%20...%20%20on%20User%20%7B%0A%20%20%20%20%20%20%20%20location%20%7B%0A%20%20%20%20%20%20%20%20%20%20countryName%3A%20country%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20followers%20%7B%0A%20%20%20%20%20%20%20%20%20%20totalCount%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)
